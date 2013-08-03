@@ -1,0 +1,14 @@
+Github as Socio-technical phenomenon
+	What is GitHub?
+	What is Open-Source?
+
+Collaborative Authorship
+	What is collaborative authorship? 
+	How is it done? Wiki vs. other modes
+	How can distribution open it?
+
+Contributed v. Distributed collaboration
+
+Open, distributed collaboration v. Closed, centralized/contributed collaboration
+
+Must distinguish the activity from its enabling technologies
